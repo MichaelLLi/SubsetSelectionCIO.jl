@@ -4,4 +4,3 @@ Gurobi
 CPLEX
 MathProgBase
 JuMP 0.17
-SubsetSelection 0.0.3
